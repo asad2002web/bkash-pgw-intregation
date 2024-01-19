@@ -1,0 +1,22 @@
+
+[
+  {
+    "id": 1,
+    "name": "Product 1",
+    "price": 1.0,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+  },
+  {
+    "id": 2,
+    "name": "Product 2",
+    "price": 1.0,
+    "description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas."
+  },
+  {
+    "id": 3,
+    "name": "Product 3",
+    "price": 1.0,
+    "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+  }
+]
+
