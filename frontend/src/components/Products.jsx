@@ -18,7 +18,7 @@ export const Products = ({ products, loading }) => {
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
                 {
                     products.map((product) => (
-                        <div key={product.id} className="border rounded-lg shadow-md p-4 m-4">
+                        <div key={product.id} className="border rounded-lg hover:shadow-md shadow-sm p-4 m-4">
                             <h2 className="text-lg font-bold">{product.name}</h2>
                             <p className="text-gray-600">BDT {product.price.toFixed(2)}</p>
                             <p className="mt-2 line-clamp-2">{product.description}</p>
